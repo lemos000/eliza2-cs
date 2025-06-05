@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.MensagemController",
+    "Method": "GetMensagem",
+    "RelativePath": "api/mensagem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.MensagemController",
+    "Method": "Delete",
+    "RelativePath": "api/mensagem/{usuarioId}/delete/{mensagemId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mensagemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.MensagemController",
+    "Method": "Update",
+    "RelativePath": "api/mensagem/{usuarioId}/update/{mensagemId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mensagemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "eliza2_api.Model.DTO.MensagemRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.MensagemController",
+    "Method": "Enviar",
+    "RelativePath": "api/mensagem/enviar/{usuarioId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "eliza2_api.Model.DTO.MensagemRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.MensagemController",
+    "Method": "Historico",
+    "RelativePath": "api/mensagem/historico/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "eliza2_api.Model.DTO.UsuarioLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.UsuarioController",
+    "Method": "Profile",
+    "RelativePath": "api/usuario/profile/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eliza2_api.Controllers.eliza2_api.Controllers.UsuarioController",
+    "Method": "Register",
+    "RelativePath": "api/usuario/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "eliza2_api.Model.DTO.UsuarioRegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

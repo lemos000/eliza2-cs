@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uiIEN2utolY6NZIcJjVr9VLGilGbrS+WvRu1PakPW2Y=",
+  "Source": "eliza2-api",
+  "BasePath": "_content/eliza2-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

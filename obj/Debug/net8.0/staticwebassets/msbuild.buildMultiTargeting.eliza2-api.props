@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eliza2-api.props" />
+</Project>
