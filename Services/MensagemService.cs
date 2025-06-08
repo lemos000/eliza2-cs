@@ -37,6 +37,21 @@ public class MensagemService
         return mensagem;
     }
 
+    public async Task<List<Mensagem>> GetAllAsync()
+    {
+        return await _context.Mensagens
+            .OrderByDescending(m => m.DataHora)
+            .ToListAsync();
+    }
+    public async Task<List<Mensagem>> GetAllByUsuarioAsync(int usuarioId)
+    {
+        return await _context.Mensagens
+            .Where(m => m.UsuarioId == usuarioId)
+            .OrderByDescending(m => m.DataHora)
+            .ToListAsync();
+    }
+
+
     public async Task<List<Mensagem>> GetHistoricoAsync(int usuarioId)
     {
         return await _context.Mensagens

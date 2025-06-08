@@ -3,10 +3,8 @@ using eliza2_api.Model.DTO;
 using eliza2_api.Model.Entity;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace eliza2_api.Services
 {
-   
     public class UsuarioService
     {
         private readonly AppDbContext _context;
@@ -25,7 +23,7 @@ namespace eliza2_api.Services
             {
                 Nome = dto.Nome,
                 Email = dto.Email,
-                SenhaHash = BCrypt.Net.BCrypt.HashPassword(dto.Senha)
+                SenhaHash = dto.Senha
             };
 
             _context.Usuarios.Add(usuario);
@@ -39,10 +37,47 @@ namespace eliza2_api.Services
             };
         }
 
+        public async Task<List<Usuario>> GetAllAsync()
+        {
+            return await _context.Usuarios.ToListAsync();
+        }
+
+        public async Task<Usuario> GetByIdAsync(int id)
+        {
+            return await _context.Usuarios.FindAsync(id);
+        }
+
+        public async Task UpdateAsync(int id, UsuarioRegisterDTO dto)
+        {
+            var usuario = await _context.Usuarios.FindAsync(id);
+            if (usuario != null)
+            {
+                usuario.Nome = dto.Nome;
+                usuario.Email = dto.Email;
+                if (!string.IsNullOrWhiteSpace(dto.Senha))
+                {
+                    usuario.SenhaHash = dto.Senha;
+                }
+                _context.Usuarios.Update(usuario);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var usuario = await _context.Usuarios.FindAsync(id);
+            if (usuario != null)
+            {
+                _context.Usuarios.Remove(usuario);
+                await _context.SaveChangesAsync();
+            }
+        }
+
         public async Task<UsuarioLoginResponseDTO> LoginAsync(UsuarioLoginDTO dto)
         {
-            var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == dto.Email);
-            if (usuario == null || !BCrypt.Net.BCrypt.Verify(dto.Senha, usuario.SenhaHash))
+            var usuario = await _context.Usuarios
+                .FirstOrDefaultAsync(u => u.Email == dto.Email && u.SenhaHash == dto.Senha);
+            if (usuario == null)
                 throw new Exception("Usuário ou senha inválidos.");
 
             return new UsuarioLoginResponseDTO
@@ -66,5 +101,4 @@ namespace eliza2_api.Services
             };
         }
     }
-
 }

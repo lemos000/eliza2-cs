@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\usuariomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\usuariomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\services\\mensagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,56 +27,12 @@
       "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\entity\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\entity\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\usuariologinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\usuariologinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\mensagemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\mensagemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\geminidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\geminidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\mensagemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\mensagemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\mensagemrespdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,8 +43,107 @@
       "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\usuariologinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\usuariologinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\entity\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\entity\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\model\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:model\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\usuarios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\usuarios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\mensagens.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\mensagens.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\mensagens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\mensagens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\controllers\\mensagemmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:controllers\\mensagemmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|d:\\coding\\global sollutions\\csharp\\eliza2-api\\eliza2-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54C3EAD0-30B1-4B38-84FB-7FBD5A55937F}|eliza2-api.csproj|solutionrelative:eliza2-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\UsuarioMvc\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\UsuarioMvc\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\UsuarioMvc\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MensagemMvc\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +153,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,189 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-05T22:55:11.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T22:11:14.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MensagemController.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MensagemController.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemController.cs",
-              "RelativeToolTip": "Controllers\\MensagemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:22:23.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:14:38.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:14:18.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GeminiDesDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\GeminiDesDTO.cs",
-              "RelativeDocumentMoniker": "Model\\DTO\\GeminiDesDTO.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\GeminiDesDTO.cs",
-              "RelativeToolTip": "Model\\DTO\\GeminiDesDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:34:51.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MensagemService.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\MensagemService.cs",
-              "RelativeDocumentMoniker": "Services\\MensagemService.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\MensagemService.cs",
-              "RelativeToolTip": "Services\\MensagemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:11:29.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T19:25:56.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Mensagem.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Mensagem.cs",
-              "RelativeDocumentMoniker": "Model\\Entity\\Mensagem.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Mensagem.cs",
-              "RelativeToolTip": "Model\\Entity\\Mensagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:45:32.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Usuario.cs",
-              "RelativeDocumentMoniker": "Model\\Entity\\Usuario.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Usuario.cs",
-              "RelativeToolTip": "Model\\Entity\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:28:08.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:14:19.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GeminiService.cs",
               "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\GeminiService.cs",
               "RelativeDocumentMoniker": "Services\\GeminiService.cs",
               "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\GeminiService.cs",
               "RelativeToolTip": "Services\\GeminiService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA7wCgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:17:22.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA6wCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T22:12:35.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MensagemRequestDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\MensagemRequestDTO.cs",
-              "RelativeDocumentMoniker": "Model\\DTO\\MensagemRequestDTO.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\MensagemRequestDTO.cs",
-              "RelativeToolTip": "Model\\DTO\\MensagemRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:52:53.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "MensagemRespDto.cs",
               "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\MensagemRespDto.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\MensagemRespDto.cs",
@@ -293,46 +187,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UsuarioLoginResponseDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioLoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "Model\\DTO\\UsuarioLoginResponseDTO.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioLoginResponseDTO.cs",
-              "RelativeToolTip": "Model\\DTO\\UsuarioLoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "MensagemRequestDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\MensagemRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\MensagemRequestDTO.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\MensagemRequestDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\MensagemRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:51:14.551Z",
+              "WhenOpened": "2025-06-05T19:52:53.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
+              "Title": "GeminiDesDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\GeminiDesDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\GeminiDesDTO.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\GeminiDesDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\GeminiDesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:34:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MensagemService.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\MensagemService.cs",
+              "RelativeDocumentMoniker": "Services\\MensagemService.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\MensagemService.cs",
+              "RelativeToolTip": "Services\\MensagemService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:11:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:07:22.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioRegisterDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioRegisterDTO.cs",
-              "RelativeDocumentMoniker": "Model\\DTO\\UsuarioRegisterDTO.cs",
-              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioRegisterDTO.cs",
-              "RelativeToolTip": "Model\\DTO\\UsuarioRegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioMvcController.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioMvcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioMvcController.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioMvcController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioMvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:50:31.993Z",
+              "WhenOpened": "2025-06-08T21:04:52.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:14:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MensagemController.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MensagemController.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemController.cs",
+              "RelativeToolTip": "Controllers\\MensagemController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:22:23.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UsuarioLoginDTO.cs",
               "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioLoginDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\UsuarioLoginDTO.cs",
@@ -345,16 +291,325 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioLoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioLoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\UsuarioLoginResponseDTO.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioLoginResponseDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\UsuarioLoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:51:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRegisterDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioRegisterDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\UsuarioRegisterDTO.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\DTO\\UsuarioRegisterDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\UsuarioRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:50:31.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mensagem.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Mensagem.cs",
+              "RelativeDocumentMoniker": "Model\\Entity\\Mensagem.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Mensagem.cs",
+              "RelativeToolTip": "Model\\Entity\\Mensagem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:45:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Entity\\Usuario.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Model\\Entity\\Usuario.cs",
+              "RelativeToolTip": "Model\\Entity\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:28:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:14:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mensagens.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Mensagens.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Mensagens.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Mensagens.cshtml.cs",
+              "RelativeToolTip": "Pages\\Mensagens.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:53:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Usuarios.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Usuarios.cshtml",
+              "RelativeToolTip": "Pages\\Usuarios.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T20:52:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mensagens.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Mensagens.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Mensagens.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Mensagens.cshtml",
+              "RelativeToolTip": "Pages\\Mensagens.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T20:53:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuarios.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Usuarios.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Usuarios.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Usuarios.cshtml.cs",
+              "RelativeToolTip": "Pages\\Usuarios.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:53:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:14:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "eliza2-api",
+              "Title": "MensagemMvcController.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemMvcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MensagemMvcController.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Controllers\\MensagemMvcController.cs",
+              "RelativeToolTip": "Controllers\\MensagemMvcController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:04:43.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T20:23:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\UsuarioMvc\\Login.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Login.cshtml",
+              "RelativeToolTip": "Views\\UsuarioMvc\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:43:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\UsuarioMvc\\Profile.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Profile.cshtml",
+              "RelativeToolTip": "Views\\UsuarioMvc\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:44:14.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Create.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Create.cshtml",
+              "RelativeToolTip": "Views\\MensagemMvc\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:49:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\UsuarioMvc\\Register.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\UsuarioMvc\\Register.cshtml",
+              "RelativeToolTip": "Views\\UsuarioMvc\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:43:30.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:43:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Edit.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MensagemMvc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:49:23.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Details.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Details.cshtml",
+              "RelativeToolTip": "Views\\MensagemMvc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:49:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T19:25:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Delete.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MensagemMvc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T19:49:50.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOAUAAAAAAAAAADwv/MUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-08T19:58:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-05T22:55:11.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml",
+              "RelativeToolTip": "Views\\MensagemMvc\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T22:11:14.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\MensagemMvc\\Index.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\Views\\MensagemMvc\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\MensagemMvc\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:12:35.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "eliza2-api.csproj",
               "DocumentMoniker": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\eliza2-api.csproj",
               "RelativeDocumentMoniker": "eliza2-api.csproj",
               "ToolTip": "D:\\Coding\\Global Sollutions\\csharp\\eliza2-api\\eliza2-api.csproj",
               "RelativeToolTip": "eliza2-api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T19:25:23.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T19:25:23.038Z"
             }
           ]
         }

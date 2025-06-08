@@ -1,5 +1,6 @@
 using eliza2_api.Data;
 using eliza2_api.Services;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,15 @@ builder.Services.AddScoped<UsuarioService>();
 builder.Services.AddScoped<MensagemService>();
 builder.Services.AddRazorPages();
 builder.Services.AddControllers();
+builder.Services.AddControllersWithViews(options =>
+{
+    options.Filters.Clear();
+});
+builder.Services.AddRazorPages().AddRazorPagesOptions(options =>
+{
+    options.Conventions.ConfigureFilter(new IgnoreAntiforgeryTokenAttribute());
+});
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<GeminiService>();

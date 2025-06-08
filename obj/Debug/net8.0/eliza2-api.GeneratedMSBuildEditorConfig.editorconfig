@@ -31,3 +31,11 @@ build_property.EnableCodeStyleSeverity =
 [D:/Coding/Global Sollutions/csharp/eliza2-api/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/Global Sollutions/csharp/eliza2-api/Pages/Mensagens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVuc2FnZW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/Global Sollutions/csharp/eliza2-api/Pages/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

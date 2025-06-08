@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eliza2-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e362dc3f20270839ab9d49a7b004d4bcd5b31e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("eliza2-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eliza2-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

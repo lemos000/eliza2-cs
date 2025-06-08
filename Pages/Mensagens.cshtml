@@ -1,0 +1,68 @@
+﻿@page
+@model MensagensModel
+@{
+    ViewData["Title"] = "Mensagens";
+}
+
+<h2>Mensagens</h2>
+
+<!-- Formulário de NOVA mensagem -->
+<form method="post">
+    <input type="hidden" asp-for="Input.Id" />
+    <div>
+        <label>Usuário ID</label>
+        <input asp-for="Input.UsuarioId" class="form-control" />
+    </div>
+    <div>
+        <label>Texto</label>
+        <input asp-for="Input.TextoUsuario" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">
+        @(Model.Input.Id == 0 ? "Enviar" : "Salvar Edição")
+    </button>
+    @if (Model.Input.Id != 0)
+    {
+        <a asp-page="/Mensagens">Cancelar</a>
+    }
+</form>
+<hr />
+
+<!-- Listagem -->
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Usuário</th>
+            <th>Texto</th>
+            <th>RespostaBot</th>
+            <th>Data</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model.Mensagens)
+        {
+            <tr>
+                <td>@m.Id</td>
+                <td>@m.UsuarioId</td>
+                <td>@m.TextoUsuario</td>
+                <td>@m.RespostaBot</td>
+                <td>@m.DataHora</td>
+                <td>
+                    <form method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@m.Id" />
+                        <button type="submit" name="handler" value="Edit" class="btn btn-warning btn-sm">Editar</button>
+                    </form>
+                    <form method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@m.Id" />
+                        <button type="submit" name="handler" value="Delete" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza?')">Excluir</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@if (!string.IsNullOrEmpty(Model.Msg))
+{
+    <div class="alert alert-info mt-2">@Model.Msg</div>
+}

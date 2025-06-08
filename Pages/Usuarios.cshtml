@@ -1,0 +1,64 @@
+﻿@page
+@model UsuariosModel
+@{
+    ViewData["Title"] = "Usuários";
+}
+<h2>Usuários</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Input.Id" />
+    <div>
+        <label>Nome</label>
+        <input asp-for="Input.Nome" class="form-control" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Input.Email" class="form-control" />
+    </div>
+    <div>
+        <label>Senha</label>
+        <input asp-for="Input.Senha" type="password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">
+        @(Model.Input.Id == 0 ? "Cadastrar" : "Salvar Edição")
+    </button>
+    @if (Model.Input.Id != 0)
+    {
+        <a asp-page="/Usuarios">Cancelar</a>
+    }
+</form>
+<hr />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model.Usuarios)
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Nome</td>
+                <td>@u.Email</td>
+                <td>
+                    <form method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@u.Id" />
+                        <button type="submit" name="handler" value="Edit" class="btn btn-warning btn-sm">Editar</button>
+                    </form>
+                    <form method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@u.Id" />
+                        <button type="submit" name="handler" value="Delete" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza?')">Excluir</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@if (!string.IsNullOrEmpty(Model.Msg))
+{
+    <div class="alert alert-info mt-2">@Model.Msg</div>
+}

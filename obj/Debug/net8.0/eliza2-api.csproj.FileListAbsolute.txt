@@ -139,3 +139,4 @@ D:\Coding\Global Sollutions\csharp\eliza2-api\obj\Debug\net8.0\eliza2-api.pdb
 D:\Coding\Global Sollutions\csharp\eliza2-api\obj\Debug\net8.0\eliza2-api.genruntimeconfig.cache
 D:\Coding\Global Sollutions\csharp\eliza2-api\obj\Debug\net8.0\ref\eliza2-api.dll
 D:\Coding\Global Sollutions\csharp\eliza2-api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coding\Global Sollutions\csharp\eliza2-api\obj\Debug\net8.0\eliza2-api.sourcelink.json
