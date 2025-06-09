@@ -1,11 +1,11 @@
 # eliza2-api
 
-Eliza é uma API RESTful desenvolvida em Java com Spring Boot, concebida como um MVP para servir como psicóloga virtual empática e acessível, especialmente voltada ao suporte psicológico de pessoas em situação de vulnerabilidade após desastres, catástrofes naturais ou grandes crises sociais.
+Eliza ï¿½ uma API RESTful desenvolvida em Java com Spring Boot, concebida como um MVP para servir como psicï¿½loga virtual empï¿½tica e acessï¿½vel, especialmente voltada ao suporte psicolï¿½gico de pessoas em situaï¿½ï¿½o de vulnerabilidade apï¿½s desastres, catï¿½strofes naturais ou grandes crises sociais.
 
-A solução integra a inteligência artificial do Google Gemini, permitindo conversas humanizadas, acolhedoras e responsivas, capazes de entender o contexto emocional do usuário e oferecer orientações ou encaminhamentos de forma segura e ética. A IA foi treinada para compreender demandas sensíveis e proporcionar suporte inicial até que o indivíduo possa receber acompanhamento especializado.
+A soluï¿½ï¿½o integra a inteligï¿½ncia artificial do Google Gemini, permitindo conversas humanizadas, acolhedoras e responsivas, capazes de entender o contexto emocional do usuï¿½rio e oferecer orientaï¿½ï¿½es ou encaminhamentos de forma segura e ï¿½tica. A IA foi treinada para compreender demandas sensï¿½veis e proporcionar suporte inicial atï¿½ que o indivï¿½duo possa receber acompanhamento especializado.
 
 
-Como MVP, Eliza foi projetada para ser facilmente expandida no futuro, permitindo integrações com outros serviços de assistência social, plataformas de telemedicina, equipes de resposta a emergências e órgãos de saúde pública. A API pode ser incorporada a aplicativos móveis, portais de atendimento emergencial e sistemas de monitoramento pós-crise, promovendo cuidado psicológico imediato e humanizado em larga escala.
+Como MVP, Eliza foi projetada para ser facilmente expandida no futuro, permitindo integraï¿½ï¿½es com outros serviï¿½os de assistï¿½ncia social, plataformas de telemedicina, equipes de resposta a emergï¿½ncias e ï¿½rgï¿½os de saï¿½de pï¿½blica. A API pode ser incorporada a aplicativos mï¿½veis, portais de atendimento emergencial e sistemas de monitoramento pï¿½s-crise, promovendo cuidado psicolï¿½gico imediato e humanizado em larga escala.
 ## Tecnologias Utilizadas
 
 - ASP.NET Core 8
@@ -15,9 +15,9 @@ Como MVP, Eliza foi projetada para ser facilmente expandida no futuro, permitind
 - Gemini API (Google Generative Language)
 - Razor Pages
 
-## Configuração
+## Configuraï¿½ï¿½o
 
-1. **Clone o repositório:**
+1. **Clone o repositï¿½rio:**
    
 
 
@@ -27,7 +27,7 @@ Como MVP, Eliza foi projetada para ser facilmente expandida no futuro, permitind
 
 
 
-2. **Configure a string de conexão no `appsettings.json`:**
+2. **Configure a string de conexï¿½o no `appsettings.json`:**
 ```bash 
 "ConnectionStrings": { "DefaultConnection": "Host=localhost;Database=eliza2db;Username=seu_usuario;Password=sua_senha" }
 ```
@@ -49,36 +49,46 @@ dotnet run
 
 ## Endpoints Principais
 
-Acesse a documentação interativa via Swagger em:  
+Acesse a documentaï¿½ï¿½o interativa via Swagger em:  
 `https://localhost:{porta}/swagger`
 
-### Usuários
+### Usuï¿½rios
 
-- `POST /api/usuario/register` — Cadastro de usuário
-- `POST /api/usuario/login` — Login de usuário
+- `POST /api/usuario/register` ï¿½ Cadastro de usuï¿½rio
+![alt text](image.png)
+
+- `POST /api/usuario/login` ï¿½ Login de usuï¿½rio
+![alt text](image-1.png)
+- `GET /api/usuario/profile` ï¿½ Perfil de usuÃ¡rio
+![alt text](image-2.png)
 
 ### Mensagens
 
-- `POST /api/mensagem/enviar/{usuarioId}` — Envia uma mensagem e recebe resposta do Gemini
-- `GET /api/mensagem/historico/{usuarioId}` — Lista o histórico de mensagens do usuário
-- `GET /api/mensagem/{id}` — Busca uma mensagem específica
-- `PUT /api/mensagem/{usuarioId}/{mensagemId}` — Atualiza uma mensagem
-- `DELETE /api/mensagem/{usuarioId}/{mensagemId}` — Remove uma mensagem
+- `POST /api/mensagem/enviar/{usuarioId}` ï¿½ Envia uma mensagem e recebe resposta do Gemini
+![alt text](image-7.png)
+- `GET /api/mensagem/historico/{usuarioId}` ï¿½ Lista o histï¿½rico de mensagens do usuï¿½rio
+![alt text](image-4.png)
+- `GET /api/mensagem/{id}` ï¿½ Busca uma mensagem especï¿½fica
+![alt text](image-5.png)
+- `PUT /api/mensagem/{usuarioId}/{mensagemId}` ï¿½ Atualiza uma mensagem
+![alt text](image-6.png)
+- `DELETE /api/mensagem/{usuarioId}/{mensagemId}` ï¿½ Remove uma mensagem
+![alt text](image-8.png)
 
 ## Estrutura do Projeto
 
-- `Controllers/` — Controllers da API
-- `Services/` — Serviços de negócio e integração (incluindo Gemini)
-- `Model/Entity/` — Entidades do banco de dados
-- `Model/DTO/` — Objetos de transferência de dados
-- `Data/` — Contexto do Entity Framework
+- `Controllers/` ï¿½ Controllers da API
+- `Services/` ï¿½ Serviï¿½os de negï¿½cio e integraï¿½ï¿½o (incluindo Gemini)
+- `Model/Entity/` ï¿½ Entidades do banco de dados
+- `Model/DTO/` ï¿½ Objetos de transferï¿½ncia de dados
+- `Data/` ï¿½ Contexto do Entity Framework
 
-## Observações
+## Observaï¿½ï¿½es
 
-- Certifique-se de que a API Key do Gemini está correta em `GeminiService`.
-- O projeto utiliza HTTPS por padrão.
-- Para ambiente de desenvolvimento, o Swagger está habilitado.
+- Certifique-se de que a API Key do Gemini estï¿½ correta em `GeminiService`.
+- O projeto utiliza HTTPS por padrï¿½o.
+- Para ambiente de desenvolvimento, o Swagger estï¿½ habilitado.
 
 ---
 
-Projeto acadêmico da FIAP, desenvolvido para a matéria de ADVANCED BUSINESS DEVELOPMENT WITH .NET
+Projeto acadï¿½mico da FIAP, desenvolvido para a matï¿½ria de ADVANCED BUSINESS DEVELOPMENT WITH .NET
