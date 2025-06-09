@@ -37,7 +37,7 @@
                 try
                 {
                     var usuario = await _usuarioService.LoginAsync(dto);
-                    return Ok("Usuario logado com sucesso" + usuario);
+                    return Ok("Usuario logado com sucesso: \n" + usuario.Nome + "\nid: " + usuario.Id);
                 }
                 catch (Exception ex)
                 {
